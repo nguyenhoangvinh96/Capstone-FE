@@ -50,7 +50,6 @@ const Header = () => {
       <div className="container flex justify-between h-16 mx-auto">
         <NavLink to="/">
           <img
-            src="/img/600e8df5132cb60024b04964.jpg"
             alt=""
             className="w-40"
           />

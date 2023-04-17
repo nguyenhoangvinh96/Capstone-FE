@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
           <NavLink to="/">
             <img
-              src="/img/600e8df5132cb60024b04964.jpg"
+              src="#"
               className="w-40"
               alt=""
             />
@@ -81,18 +81,8 @@ const Footer = () => {
       </div>
       <div className="bg-slate-800">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-          <p className="text-gray-100  text-sm text-center sm:text-left">
-            © Cybersoft
-            <a
-              href="https://twitter.com/knyttneve"
-              rel="noopener noreferrer"
-              className="text-gray-100 ml-4 no-underline"
-              target="_blank"
-            >
-              Võ công Tuấn Lộc - Nguyễn Lê Anh Khoa
-            </a>
-          </p>
-          <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
+          
+      <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <NavLink className="text-gray-100">
               <svg
                 fill="currentColor"

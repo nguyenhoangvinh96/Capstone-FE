@@ -41,7 +41,6 @@ const AdminTemplate = () => {
         onCollapse={(value) => setCollapsed(value)}
       >
         <img
-          src="/img/600e8df5132cb60024b04964.jpg"
           alt=""
           className="w-full"
         />
